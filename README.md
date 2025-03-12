@@ -1127,3 +1127,5 @@ end
 homeTab:Select()
 
 return CherryHub
+
+homeTab:Select()
